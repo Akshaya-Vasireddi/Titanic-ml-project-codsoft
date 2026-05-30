@@ -4,7 +4,8 @@
 A machine learning project that predicts whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, and fare.
 ---
 📓 Notebook
-👉 nbviewer.org/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb
+
+👉 https://nbviewer.org/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb
 
 ---
 ---
