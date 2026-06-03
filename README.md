@@ -5,12 +5,13 @@ A machine learning project that predicts whether a passenger survived the Titani
 ---
 📓 Notebook
 
-👉 https://colab.research.google.com/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb?authuser=1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb)
 ---
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to try the app] (https://titanic-ml-project-codsoft-cayshur9qtjghfszaymze9.streamlit.app/)
+👉 [Click here to try the app](https://titanic-ml-project-codsoft-cayshur9qtjghfszaymze9.streamlit.app/)
 
 ---
 
