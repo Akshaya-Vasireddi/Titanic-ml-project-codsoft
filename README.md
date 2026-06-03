@@ -5,8 +5,7 @@ A machine learning project that predicts whether a passenger survived the Titani
 ---
 📓 Notebook
 
-👉 https://nbviewer.org/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb
-
+👉 https://colab.research.google.com/github/Akshaya-Vasireddi/Titanic-ml-project-codsoft/blob/main/titanic_survival_ml.ipynb?authuser=1
 ---
 ---
 
